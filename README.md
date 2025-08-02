@@ -17,6 +17,4 @@
 *OUTPUT*:
 <img width="1351" height="744" alt="Image" src="https://github.com/user-attachments/assets/59de96ea-83de-4dd0-a035-477a7520fbf4" />
 <img width="1350" height="763" alt="Image" src="https://github.com/user-attachments/assets/3c6fcc2f-08fd-40d2-adbb-1f5f98537ffa" />
-<img width="1349" height="730" alt="Image" src="https://github.com/user-attachments/assets/84870657-1961-4c7e-81af-5b181b12c062" />
-<img width="1705" height="1101" alt="Image" src="https://github.com/user-attachments/assets/a7e9ad0e-7a8b-49ff-b899-644493cc9dfa" />
-<img width="1279" height="649" alt="Image" src="https://github.com/user-attachments/assets/d87297b3-40eb-43c2-8378-e26193d5cb2b" />
+
